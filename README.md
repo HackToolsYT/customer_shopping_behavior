@@ -83,19 +83,19 @@ customer engagement, and optimize marketing and product strategies?”
 customer-shopping-behavior-analysis/
 │
 ├── python/
-│   └── Customer_Shopping_Behviour_Analysis.ipynb
+│   └── [Python File}(https://github.com/HackToolsYT/customer_shopping_behavior/raw/main/Customer_Shopping_Behviour_Analysis.ipynb)
 │
 ├── SQL/
-│   └── customer_analysis.sql
+│   └── [SQL File](https://github.com/HackToolsYT/customer_shopping_behavior/raw/main/customer_analysis.sql)
 │
 ├── dashboard/
-│   └── customer_buying_behaviour.pbix
+│   └── [BI Dashboard](https://github.com/HackToolsYT/customer_shopping_behavior/raw/main/customer_buying_behaviour.pbix)
 │
 ├── presentation/
-│   └── Business Problem Document.pdf
+│   └── [Report](https://github.com/HackToolsYT/customer_shopping_behavior/raw/main/Business Problem Document.pdf)
 │
 └── images/
-    └── customer_behavior_dashboard.png
+    └── [Image](https://github.com/HackToolsYT/customer_shopping_behavior/raw/main/customer_behavior_dashboard.png)
 ```
 
 ---
