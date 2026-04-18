@@ -88,7 +88,6 @@ customer engagement, and optimize marketing and product strategies?”
 - 📑 Business Report: [View PDF](https://github.com/HackToolsYT/customer_shopping_behavior/raw/main/Business%20Problem%20Document.pdf)
 
 - 🖼️ Dashboard Image: [View Image](https://github.com/HackToolsYT/customer_shopping_behavior/raw/main/customer_behavior_dashboard.png)
-```
 
 ---
 
