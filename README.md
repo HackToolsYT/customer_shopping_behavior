@@ -78,7 +78,7 @@ customer engagement, and optimize marketing and product strategies?”
 
 ## 📊 Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](customer_behavior_dashboard.png)
 
 ---
 
