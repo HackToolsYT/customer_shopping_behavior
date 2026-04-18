@@ -77,25 +77,17 @@ customer engagement, and optimize marketing and product strategies?”
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Files
 
-```
-customer-shopping-behavior-analysis/
-│
-├── python/
-│   └── [Python File}(https://github.com/HackToolsYT/customer_shopping_behavior/raw/main/Customer_Shopping_Behviour_Analysis.ipynb)
-│
-├── SQL/
-│   └── [SQL File](https://github.com/HackToolsYT/customer_shopping_behavior/raw/main/customer_analysis.sql)
-│
-├── dashboard/
-│   └── [BI Dashboard](https://github.com/HackToolsYT/customer_shopping_behavior/raw/main/customer_buying_behaviour.pbix)
-│
-├── presentation/
-│   └── [Report](https://github.com/HackToolsYT/customer_shopping_behavior/raw/main/Business Problem Document.pdf)
-│
-└── images/
-    └── [Image](https://github.com/HackToolsYT/customer_shopping_behavior/raw/main/customer_behavior_dashboard.png)
+- 🐍 Python Notebook: [View File](https://github.com/HackToolsYT/customer_shopping_behavior/raw/main/Customer_Shopping_Behviour_Analysis.ipynb)
+
+- 🗄️ SQL Queries: [View File](https://github.com/HackToolsYT/customer_shopping_behavior/raw/main/customer_analysis.sql)
+
+- 📊 Power BI Dashboard: [Download File](https://github.com/HackToolsYT/customer_shopping_behavior/raw/main/customer_buying_behaviour.pbix)
+
+- 📑 Business Report: [View PDF](https://github.com/HackToolsYT/customer_shopping_behavior/raw/main/Business%20Problem%20Document.pdf)
+
+- 🖼️ Dashboard Image: [View Image](https://github.com/HackToolsYT/customer_shopping_behavior/raw/main/customer_behavior_dashboard.png)
 ```
 
 ---
