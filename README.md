@@ -83,19 +83,19 @@ customer engagement, and optimize marketing and product strategies?”
 customer-shopping-behavior-analysis/
 │
 ├── python/
-│   └── analysis.ipynb
+│   └── Customer_Shopping_Behviour_Analysis.ipynb
 │
 ├── SQL/
 │   └── customer_analysis.sql
 │
 ├── dashboard/
-│   └── dashboard.pbix
+│   └── customer_buying_behaviour.pbix
 │
 ├── presentation/
-│   └── insights.pptx
+│   └── Business Problem Document.pdf
 │
 └── images/
-    └── dashboard.png
+    └── customer_behavior_dashboard.png
 ```
 
 ---
