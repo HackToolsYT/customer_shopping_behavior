@@ -48,12 +48,7 @@ customer engagement, and optimize marketing and product strategies?”
 1. Cleaned raw data using Python
 2. Performed SQL queries to extract insights
 3. Built interactive dashboard in Power BI
-4. Applied filters for deeper analysis:
-
-   * Gender
-   * Category
-   * Shipping Mode
-   * Subscription Status
+4. Report Presentation
 
 ---
 
