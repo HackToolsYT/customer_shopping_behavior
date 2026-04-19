@@ -85,7 +85,7 @@ customer engagement, and optimize marketing and product strategies?”
 
 - 📊 Power BI Dashboard: [Download File](https://github.com/HackToolsYT/customer_shopping_behavior/raw/main/customer_buying_behaviour.pbix)
 
-- 📑 Business Report: [View PDF](https://github.com/HackToolsYT/customer_shopping_behavior/raw/main/Business%20Problem%20Document.pdf)
+- 📑 Business Report: [View PDF](https://github.com/HackToolsYT/customer_shopping_behavior/raw/main/Customer%20Shopping%20Behavior%20Analysis.pdf)
 
 - 🖼️ Dashboard Image: [View Image](https://github.com/HackToolsYT/customer_shopping_behavior/raw/main/customer_behavior_dashboard.png)
 
